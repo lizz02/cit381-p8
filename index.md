@@ -1,7 +1,11 @@
 # MySQL Database and Accessing Data (CIT381 Project)
 
 This project centered around creating a relational database. I chose to create a database modeled off a video game "inventory." The image below is a graphic representation of my database:
+
+
 ![database](https://raw.githubusercontent.com/lizz02/cit381-p8/main/cit381-assign08-model.png)
+
+
 By using SQL and NodeJS, I was able to create a server which would allow the client to view/search for data, add and delete data, and update preexisting data.
 
 
