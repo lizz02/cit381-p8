@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# MySQL Database and Accessing Data (CIT381 Project)
 
-You can use the [editor on GitHub](https://github.com/lizz02/cit381-p8/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This project centered around creating a relational database. I chose to create a database modeled off a video game "inventory." The image below is a graphic representation of my database:
+![database](https://raw.githubusercontent.com/lizz02/cit381-p8/main/cit381-assign08-model.png)
+By using SQL and NodeJS, I was able to create a server which would allow the client to view/search for data, add and delete data, and update preexisting data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Source Code
+- NodeJS: [Server](https://github.com/lizz02/cit381-p8/blob/main/cit381-assign08-server.js) 
+- SQL: [Creating a Database](https://github.com/lizz02/cit381-p8/blob/main/cit381-assign08-export.sql) | [View](https://github.com/lizz02/cit381-p8/blob/main/view.sql) | [Special Procedure](https://github.com/lizz02/cit381-p8/blob/main/sp.sql)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lizz02/cit381-p8/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Return to the main page](https://lizz02.github.io/)
